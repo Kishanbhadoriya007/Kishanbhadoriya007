@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kishan Singh Bhadoria</h1>
-<h3 align="center">a fervent Devops full stack Engineer with a knack for cybersecurity and AI/ML expertise.Hailing from the vibrant tech landscape of India</h3>
+<h3 align="center">a fervent full stack Developer with a knack for Devops, cybersecurity and AI/ML expertise.Hailing from the vibrant tech landscape of India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 
