@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kishanbhadoriya4123@gmail.com**
 
-- ⚡ Fun fact **I suck at maintaining streaks**
+- ⚡ Fun fact **Facts aren't always fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
