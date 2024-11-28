@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, django**
 
-- 💬 Ask me about **Front end**
+- 💬 Ask me about **Python, AI/ML**
 
 - 📫 How to reach me **kishanbhadoriya4123@gmail.com**
 
